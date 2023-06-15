@@ -51,7 +51,8 @@ print(res)
 ## Output:
 
 
-![image](https://github.com/Jerushli/LU-Decomposition/assets/120041243/064d5b2a-5b68-491d-a0c3-d51958f91496)
+![image](https://github.com/Jerushli/LU-Decomposition/assets/120041243/bfe107db-9c72-48c4-8923-3209f65c727c)
+
 
 
 
